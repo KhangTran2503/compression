@@ -1,0 +1,7 @@
+﻿  LWZ.cpp
+C:\Users\LEGION\source\repos\LWZ\LWZ\LWZ.cpp(30,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LEGION\source\repos\LWZ\LWZ\LWZ.cpp(46,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LEGION\source\repos\LWZ\LWZ\LWZ.cpp(54,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LEGION\source\repos\LWZ\LWZ\LWZ.cpp(74,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LEGION\source\repos\LWZ\LWZ\LWZ.cpp(106,27): warning C4018: '<': signed/unsigned mismatch
+  LWZ.vcxproj -> C:\Users\LEGION\source\repos\LWZ\Debug\LWZ.exe
